@@ -1,13 +1,12 @@
 {
-  "name": "superpowers",
-  "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
+  "name": "superpowers-home",
+  "description": "Personal fork of superpowers: core skills plus my own workflow and domain skills",
   "version": "6.1.1",
   "author": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "alb7979s"
   },
-  "homepage": "https://github.com/obra/superpowers",
-  "repository": "https://github.com/obra/superpowers",
+  "homepage": "https://github.com/alb7979s/superpowers",
+  "repository": "https://github.com/alb7979s/superpowers",
   "license": "MIT",
   "keywords": [
     "skills",
@@ -15,6 +14,7 @@
     "debugging",
     "collaboration",
     "best-practices",
-    "workflows"
+    "workflows",
+    "personal"
   ]
 }
